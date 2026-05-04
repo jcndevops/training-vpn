@@ -20,6 +20,7 @@ coté  master
 dev suite 1
 dev suite 2
 
+<<<<<<< HEAD
 dev suite 3
 
 commit 1
@@ -72,3 +73,6 @@ commit 11
 
 
 commit 11
+=======
+dev suite 3
+>>>>>>> 00753bb (modifs dev)
