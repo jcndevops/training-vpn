@@ -16,3 +16,8 @@ dev 2
 dev 1 
 
 coté  master
+
+dev suite 1
+dev suite 2
+
+dev suite 3
