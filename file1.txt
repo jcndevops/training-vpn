@@ -31,4 +31,7 @@ commit 3
 
 commit 2 
 
+<<<<<<< HEAD
 PPP
+=======
+>>>>>>> ad3d0ef (commit 2)
