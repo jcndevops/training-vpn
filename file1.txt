@@ -76,3 +76,5 @@ commit 11
 =======
 dev suite 3
 >>>>>>> 00753bb (modifs dev)
+
+test git hib on file 1
