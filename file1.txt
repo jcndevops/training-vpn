@@ -32,6 +32,24 @@ commit 3
 commit 2 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+PPP
+ 
+
+ toto7
+
+ tutu
+=======
+<<<<<<< HEAD
 PPP
 =======
 >>>>>>> ad3d0ef (commit 2)
+>>>>>>> 0d754d8 (commit 2 message)
+=======
+PPP
+ 
+
+ toto7
+
+ tutu
+>>>>>>> 70227a1 (commit moi  cvvv)
