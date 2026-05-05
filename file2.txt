@@ -10,3 +10,7 @@ dffdfdfdfd
 dev suite file 2
 
 dev suite file 2 suite encore
+<<<<<<< HEAD
+
+=======
+>>>>>>> 00753bb (modifs dev)
